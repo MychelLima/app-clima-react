@@ -20,7 +20,7 @@ Aplicação web para consultar o clima atual e a previsão dos próximos 7 dias 
 ## Como rodar localmente
 
 \`\`\`bash
-git clone https://github.com/SEU-USUARIO/app-clima-react.git
+git clone https://github.com/MychelLima/app-clima-react.git
 cd app-clima-react
 npm install
 npm run dev
@@ -28,4 +28,4 @@ npm run dev
 
 ## O que aprendi construindo este projeto
 
-Este foi meu primeiro projeto em React, construído após estudar JavaScript puro e TypeScript. Também fiz a mesma aplicação em JavaScript/TypeScript sem framework, disponível em [LINK DO OUTRO REPOSITÓRIO, SE QUISER].
+Este foi meu primeiro projeto em React, construído após estudar JavaScript puro e TypeScript. Também fiz a mesma aplicação em JavaScript/TypeScript sem framework, disponível em https://github.com/MychelLima/cine_stream.
