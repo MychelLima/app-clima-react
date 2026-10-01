@@ -1,0 +1,25 @@
+:root {
+  --cor-fundo: #14181f;
+  --cor-cartao: #1e2430;
+  --cor-texto: #e8ecf1;
+  --cor-texto-suave: #9aa5b5;
+  --cor-acento: #5b9bd5;
+  --cor-acento-suave: #24344a;
+  --cor-borda: #2c3441;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, sans-serif;
+  background: var(--cor-fundo);
+  color: var(--cor-texto);
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  padding: 64px 16px;
+}
